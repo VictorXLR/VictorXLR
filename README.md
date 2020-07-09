@@ -4,7 +4,7 @@ Hi, I am a software developer working at @Analyzere and also making Videogames i
 
 
 #### Currently Doing
-- 🔭 I am currently working on (FIGHT-LINES)[https://github.com/Chadtech/FIGHT-LINES] with @ChadTech
+- 🔭 I am currently working on [FIGHT-LINES] (https://github.com/Chadtech/FIGHT-LINES)
 - 🕷 Finishing my last semester at Dalhousie University
 
 
@@ -13,7 +13,7 @@ Hi, I am a software developer working at @Analyzere and also making Videogames i
 You can reach me on 
 - Instagram 📸: https://instagram.com/vie.tor
 - Twitter 🕊 : https://twitter.com/VictorXLR
-- Email 📩 : Git@victorXLR.me
+- Email 📩 : ImfromGithub@victorXLR.me
 
 
 
