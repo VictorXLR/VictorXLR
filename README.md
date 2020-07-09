@@ -4,7 +4,7 @@ Hi, I am a software developer working at @Analyzere and also making Videogames i
 
 
 #### Currently Doing
-- 🔭 I am currently working on [FIGHT-LINES] (https://github.com/Chadtech/FIGHT-LINES)
+- 🔭 I am currently working on https://github.com/Chadtech/FIGHT-LINES
 - 🕷 Finishing my last semester at Dalhousie University
 
 
