@@ -1,19 +1,14 @@
 ### Jelly
 
-Hi, I am a software developer working at @Analyzere and also making Videogames in my free time
+Hi, I am a software developer working at Analyzere, I graduated from Dalhousie University in 2020
+with a bachelor's degree in Computer Science with Honours. I enjoy programming, studying new things
+and playing videogames. 
 
 
-#### Currently Doing
-- 🔭 I am currently working on https://github.com/Chadtech/FIGHT-LINES
-- 🕷 Finishing my last semester at Dalhousie University
-
-
-
-#### Socials
+#### 💬 Socials
 You can reach me on 
 - Instagram 📸: https://instagram.com/vie.tor
 - Twitter 🕊 : https://twitter.com/VictorXLR
-- Email 📩 : ImfromGithub@victorXLR.me
 
 
 
