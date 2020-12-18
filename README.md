@@ -1,4 +1,4 @@
-### Jelly
+### Victor
 
 Hi, I am a software developer working at Analyzere, I graduated from Dalhousie University in 2020
 with a bachelor's degree in Computer Science with Honours. I enjoy programming, studying new things
