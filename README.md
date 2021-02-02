@@ -1,14 +1,16 @@
 ### Victor
 
-Hi, I am a software developer working at Analyzere, I graduated from Dalhousie University in 2020
+Hi, I am a software developer working at Analyzere, I graduated from Dalhousie University October 2020
 with a bachelor's degree in Computer Science with Honours. I enjoy programming, studying new things
 and playing videogames. 
 
 
+![](https://media.giphy.com/media/12CSpwCtoy1Vfy/giphy.gif)
 #### 💬 Socials
 You can reach me on 
 - Instagram 📸: https://instagram.com/vie.tor
 - Twitter 🕊 : https://twitter.com/VictorXLR
+
 
 
 
