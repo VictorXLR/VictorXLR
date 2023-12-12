@@ -1,7 +1,6 @@
 ### Victor
 
-Hi, I am a software developer, I graduated from Dalhousie University October 2020
-with a bachelor's degree in Computer Science with Honours. I enjoy programming, studying new things
+Hi, I am a software Engineer, I enjoy programming, studying new things
 and playing videogames. 
 
 
